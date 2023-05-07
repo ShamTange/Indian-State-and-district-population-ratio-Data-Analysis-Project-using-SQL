@@ -1,5 +1,7 @@
 # Indian-State-and-district-population-ratio-Data-Analysis-Project-using-SQL
-![Uploading Indian_State_and_district_population_ratio.jpg…]()
+
+![Indian_State_and_district_population_ratio](https://user-images.githubusercontent.com/101647764/236659873-2bc2062f-d347-4440-bc7e-aa27551b454e.jpg)
+![20230423_004302](https://user-images.githubusercontent.com/101647764/236659910-f6591cb4-bbb2-4fc8-8fbe-6ff9987a91cf.jpg)
 
 
 
